@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/job-hunt-app/static/css/main.de9eff72.chunk.css",
+    "main.js": "/job-hunt-app/static/js/main.583ca7c1.chunk.js",
+    "main.js.map": "/job-hunt-app/static/js/main.583ca7c1.chunk.js.map",
+    "runtime-main.js": "/job-hunt-app/static/js/runtime-main.5c0b7264.js",
+    "runtime-main.js.map": "/job-hunt-app/static/js/runtime-main.5c0b7264.js.map",
+    "static/js/2.54bbdd8b.chunk.js": "/job-hunt-app/static/js/2.54bbdd8b.chunk.js",
+    "static/js/2.54bbdd8b.chunk.js.map": "/job-hunt-app/static/js/2.54bbdd8b.chunk.js.map",
+    "static/js/3.4708b2ce.chunk.js": "/job-hunt-app/static/js/3.4708b2ce.chunk.js",
+    "static/js/3.4708b2ce.chunk.js.map": "/job-hunt-app/static/js/3.4708b2ce.chunk.js.map",
+    "index.html": "/job-hunt-app/index.html",
+    "static/css/main.de9eff72.chunk.css.map": "/job-hunt-app/static/css/main.de9eff72.chunk.css.map",
+    "static/js/2.54bbdd8b.chunk.js.LICENSE.txt": "/job-hunt-app/static/js/2.54bbdd8b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/job-hunt-app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c0b7264.js",
+    "static/js/2.54bbdd8b.chunk.js",
+    "static/css/main.de9eff72.chunk.css",
+    "static/js/main.583ca7c1.chunk.js"
+  ]
+}
