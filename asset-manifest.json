@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/sorting-articles-app/static/css/main.de9eff72.chunk.css",
-    "main.js": "/sorting-articles-app/static/js/main.583ca7c1.chunk.js",
-    "main.js.map": "/sorting-articles-app/static/js/main.583ca7c1.chunk.js.map",
-    "runtime-main.js": "/sorting-articles-app/static/js/runtime-main.458e4221.js",
-    "runtime-main.js.map": "/sorting-articles-app/static/js/runtime-main.458e4221.js.map",
-    "static/js/2.54bbdd8b.chunk.js": "/sorting-articles-app/static/js/2.54bbdd8b.chunk.js",
-    "static/js/2.54bbdd8b.chunk.js.map": "/sorting-articles-app/static/js/2.54bbdd8b.chunk.js.map",
-    "static/js/3.4708b2ce.chunk.js": "/sorting-articles-app/static/js/3.4708b2ce.chunk.js",
-    "static/js/3.4708b2ce.chunk.js.map": "/sorting-articles-app/static/js/3.4708b2ce.chunk.js.map",
-    "index.html": "/sorting-articles-app/index.html",
-    "static/css/main.de9eff72.chunk.css.map": "/sorting-articles-app/static/css/main.de9eff72.chunk.css.map",
-    "static/js/2.54bbdd8b.chunk.js.LICENSE.txt": "/sorting-articles-app/static/js/2.54bbdd8b.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/sorting-articles-app/static/media/logo.6ce24c58.svg"
+    "main.css": "/hackerrank-sorting-articles/static/css/main.de9eff72.chunk.css",
+    "main.js": "/hackerrank-sorting-articles/static/js/main.583ca7c1.chunk.js",
+    "main.js.map": "/hackerrank-sorting-articles/static/js/main.583ca7c1.chunk.js.map",
+    "runtime-main.js": "/hackerrank-sorting-articles/static/js/runtime-main.7fa4921c.js",
+    "runtime-main.js.map": "/hackerrank-sorting-articles/static/js/runtime-main.7fa4921c.js.map",
+    "static/js/2.54bbdd8b.chunk.js": "/hackerrank-sorting-articles/static/js/2.54bbdd8b.chunk.js",
+    "static/js/2.54bbdd8b.chunk.js.map": "/hackerrank-sorting-articles/static/js/2.54bbdd8b.chunk.js.map",
+    "static/js/3.4708b2ce.chunk.js": "/hackerrank-sorting-articles/static/js/3.4708b2ce.chunk.js",
+    "static/js/3.4708b2ce.chunk.js.map": "/hackerrank-sorting-articles/static/js/3.4708b2ce.chunk.js.map",
+    "index.html": "/hackerrank-sorting-articles/index.html",
+    "static/css/main.de9eff72.chunk.css.map": "/hackerrank-sorting-articles/static/css/main.de9eff72.chunk.css.map",
+    "static/js/2.54bbdd8b.chunk.js.LICENSE.txt": "/hackerrank-sorting-articles/static/js/2.54bbdd8b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/hackerrank-sorting-articles/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.458e4221.js",
+    "static/js/runtime-main.7fa4921c.js",
     "static/js/2.54bbdd8b.chunk.js",
     "static/css/main.de9eff72.chunk.css",
     "static/js/main.583ca7c1.chunk.js"
