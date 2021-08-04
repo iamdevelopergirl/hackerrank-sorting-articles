@@ -1,0 +1,15 @@
+$button-color : green;
+
+button{
+    min-width: 100px;
+    color: #ffffff;
+    margin: 20px;
+    &.small{
+        font-size: 0.7em;
+        min-height: 36px;
+    }
+    &.teal{
+        background-color: $button-color;
+        box-shadow: 0 4px 12px;
+    }
+}
